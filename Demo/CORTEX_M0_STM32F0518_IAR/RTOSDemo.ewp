@@ -1148,6 +1148,9 @@
         <name>$PROJ_DIR$\main-full.c</name>
     </file>
     <file>
+        <name>$PROJ_DIR$\main-mutex.c</name>
+    </file>
+    <file>
         <name>$PROJ_DIR$\main.c</name>
     </file>
     <file>
